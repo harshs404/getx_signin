@@ -1,6 +1,6 @@
 # flutter_getx_signin
 
-A new Flutter project.
+Task 2: Tathastu Cohorts internship
 
 ## Getting Started
 
