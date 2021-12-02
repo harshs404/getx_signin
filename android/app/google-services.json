@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "92992875124",
+    "project_id": "twowaitsweek2",
+    "storage_bucket": "twowaitsweek2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92992875124:android:68349ce736989006d0ff21",
+        "android_client_info": {
+          "package_name": "com.codex.fluttersignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92992875124-j790kbi0mq49fsarjlk5tegnl18nbvls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codex.fluttersignin",
+            "certificate_hash": "88f8382bbf35a405e653ae09357e8d2f29461b26"
+          }
+        },
+        {
+          "client_id": "92992875124-3fo5n61jfdndiq5voimf07foimsdebht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGMt5oEO2229wlTibWmjsvCbIsxb7tSnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92992875124-3fo5n61jfdndiq5voimf07foimsdebht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92992875124-3bcmeuesg3adsif18toq4b3943i43e4s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codex.fluttergetxsignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
